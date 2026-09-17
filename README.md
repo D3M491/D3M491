@@ -18,7 +18,7 @@
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=d3m491&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-## ⚡ whoami
+## ⚡ Shipbite
 
 ```typescript
 const d3m491: Developer = {
