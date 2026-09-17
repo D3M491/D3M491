@@ -62,7 +62,7 @@ const d3m491: Developer = {
 
 **ForkifyApp**
 
-A featured build from this profile.
+A collection of recipes with bookmarks features and create recipe
 
 `JavaScript` · `0 stars`
 
@@ -73,7 +73,7 @@ A featured build from this profile.
 
 **Bankist-App-Presentation**
 
-A featured build from this profile.
+Website presentation of the minimalist banking app
 
 `CSS` · `0 stars`
 
@@ -86,7 +86,7 @@ A featured build from this profile.
 
 **Bankist-App**
 
-A featured build from this profile.
+A simple and intuitive banking app
 
 `JavaScript` · `0 stars`
 
@@ -95,13 +95,13 @@ A featured build from this profile.
 </td>
 <td width="50%" valign="top">
 
-**WhatAi**
+**Shipbite**
 
-A featured build from this profile.
+An AI assistant for ordering from restaurant or fast-food
 
 `HTML` · `0 stars`
 
-<a href="https://github.com/D3M491/WhatAi"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+<a href="https://github.com/D3M491/Shipbite"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
 
 </td>
 </tr>
