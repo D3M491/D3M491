@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Frontend%20or%20full-stack%20engineer;Web%20Developer%0D%0A;Building%20with%20HTML%20%C2%B7%20JavaScript%20%C2%B7%20SCSS;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Frontend%20Web%20Dev%20;Web%20Developer%0D%0A;Building%20with%20HTML%20%C2%B7%20JavaScript%20%C2%B7%20SCSS;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
 
 <br/>
 
@@ -23,7 +23,7 @@
 ```typescript
 const d3m491: Developer = {
   name:      "Manuel De Marco",
-  role:      "Frontend or full-stack engineer",
+  role:      "Frontend Web Developer",
   location:  "Reggio Emilia",
   currently: "building in public",
   stack:     ["HTML", "JavaScript", "SCSS", "CSS"],
